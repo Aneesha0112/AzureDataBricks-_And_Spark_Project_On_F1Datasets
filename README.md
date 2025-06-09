@@ -81,4 +81,4 @@ It showcases data ingestion, transformation, version control, and analytics — 
 
 
 ## 📁 Repository Structure
-[Folder Structure ](https://github.com/Aneesha0112/AzureDataBricks-_And_Spark_Project_On_F1Datasets/edit/main)
+[Folder Structure ](https://github.com/Aneesha0112/AzureDataBricks-_And_Spark_Project_On_F1Datasets/tree/main)
