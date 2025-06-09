@@ -79,14 +79,6 @@ It showcases data ingestion, transformation, version control, and analytics — 
 
 ---
 
-## 🧪 Sample Use Cases
-
-- "What are the top 5 winning drivers each decade?"
-- "Which race tracks produced the fastest laps over time?"
-- "How did constructor performance evolve from 1950 to 2017?"
-- "Track weather and lap time correlations (if extended with external APIs)"
-
----
 
 ## 📁 Repository Structure
 [Folder Structure ](https://github.com/Aneesha0112/AzureDataBricks-_And_Spark_Project_On_F1Datasets/edit/main)
